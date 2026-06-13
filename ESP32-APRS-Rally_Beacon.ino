@@ -23,7 +23,7 @@ const char* LONGITUDE = "00118.33W";
 
 // I corrected the URL format from https.www... to https://www...
 const char* COMMENT =
-  "Location of NADARS Radio Rally 23rd June - Visit https://www.nadars.org/rally.asp";
+  "Location of NADARS Radio Rally 5th July - Visit https://www.nadars.org.uk/rally.asp";
 
 // 1 hour
 const unsigned long BEACON_INTERVAL_MS = 3600UL * 1000UL;
